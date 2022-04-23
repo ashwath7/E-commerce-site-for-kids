@@ -1,0 +1,17 @@
+
+#sign-page {
+  margin-top: 40px ;
+  margin-bottom: 40px ;
+padding : 30px;
+  width: 35%;
+
+  background-color: white;
+
+}
+body {
+ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));}
+
+.anchor{
+  text-decoration: none;
+  color: #fff;
+}

@@ -1,0 +1,10 @@
+.dis {
+  margin-top: 86px;
+}
+#col {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.color-red {
+    background-color:  var(--pink);
+}
